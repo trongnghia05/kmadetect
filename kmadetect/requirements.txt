@@ -76,7 +76,7 @@ termcolor==1.1.0
 tflearn==0.3.2
 tqdm==4.35.0
 traitlets==4.3.3
-urllib3==1.22
+urllib3==1.24.2
 gunicorn>=19.9.0
 django-heroku>=0.3.1
 pandas>=0.25.2
